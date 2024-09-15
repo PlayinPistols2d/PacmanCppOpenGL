@@ -22,7 +22,7 @@ This is a classic Pacman game that I worked on as part of my coursework during m
 This project was developed some time ago, and while all the code is functional and can be compiled with the proper setup, the current Visual Studio project solution might not work as intended due to its age and potential dependency issues. I haven't had the time to verify if the solution works as expected after all these years. All necessary DLLs are included in the game build, but the project might require some manual setup to resolve dependencies within Visual Studio.
 
 ## Download
-You can download the recent build here - [releases/latest](https://github.com/PlayinPistols2d/PacmanOpenGL/releases/latest)
+You can download the recent build here - [releases/latest](https://github.com/PlayinPistols2d/PacmanCppOpenGL/releases/latest)
 
 ## Contact
 For feedback, suggestions, or inquiries, please feel free to contact me through Github or any media linked to my profile.
