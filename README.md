@@ -3,6 +3,7 @@
 ## Overview
 This is a classic Pacman game that I worked on as part of my coursework during my bachelor's degree in 2020. The project is built using **C++** and **OpenGL**. I accidentelly found it on my old drive and decided to share it for educational purposes and to help others interested in game development.
 
+*Video was 2x speed up* </br>
 ![pacmancppPreview](https://github.com/user-attachments/assets/8846fb90-05a1-44fa-841f-4802b336f65e)
 
 ## Features
